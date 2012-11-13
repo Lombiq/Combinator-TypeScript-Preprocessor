@@ -1,0 +1,11 @@
+﻿Name: Combinator TypeScript Preprocessor
+AntiForgery: enabled
+Author: Piedone
+Website: http://combinatortypescript.codeplex.com
+Version: 1.0
+OrchardVersion: 1.6
+Description: TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/).
+Features:
+    Piedone.Combinator.TypeScript:
+		Name: Combinator TypeScript Preprocessor
+        Description: TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/).
