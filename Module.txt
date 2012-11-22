@@ -9,4 +9,5 @@ Features:
     Piedone.Combinator.TypeScript:
 		Name: Combinator TypeScript Preprocessor
         Description: TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Compiler logic taken from: https://github.com/giggio/TypeScriptCompiler
+		Category: Performance
 		Dependencies: Piedone.Combinator, Javascript.NET
