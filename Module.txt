@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Piedone
 Website: http://combinatortypescript.codeplex.com
 Version: 1.0
-OrchardVersion: 1.6
+OrchardVersion: 1.8
 Description: TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Compiler logic taken from: https://github.com/giggio/TypeScriptCompiler
 Features:
     Piedone.Combinator.TypeScript:
