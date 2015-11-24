@@ -4,7 +4,7 @@
 
 ## Project Description
 
-TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/).  
+TypeScript preprocessor for the Combinator Orchard module (https://github.com/Lombiq/Combinator).  
 This preprocessor hooks into [Combinator](https://github.com/Lombiq/Combinator) and compiles you included TypeScript files (.ts files) into pure JavaScript.
 
 
