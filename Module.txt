@@ -1,7 +1,7 @@
 ﻿Name: Combinator TypeScript Preprocessor
 AntiForgery: enabled
 Author: Piedone
-Website: http://combinatortypescript.codeplex.com
+Website: https://github.com/Lombiq/Combinator-TypeScript-Preprocessor
 Version: 1.0
 OrchardVersion: 1.8
 Description: TypeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Compiler logic taken from: https://github.com/giggio/TypeScriptCompiler
