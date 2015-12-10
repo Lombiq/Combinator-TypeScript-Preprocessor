@@ -10,7 +10,7 @@ This preprocessor hooks into [Combinator](https://github.com/Lombiq/Combinator) 
 
 ## Documentation
 
-**The module is dependent on the [Combinator](https://github.com/Lombiq/Combinator)  and [Javascript.NET](https://jsdotnetorchard.codeplex.com/) Orchard modules, so make sure to install them first!**
+**The module is dependent on the [Combinator](https://github.com/Lombiq/Combinator)  and [Javascript.NET](https://github.com/Lombiq/Orchard-JavaScript.Net) Orchard modules, so make sure to install them first!**
 
 This preprocessor hooks into Combinator and compiles included TypeScript files (.ts files) into pure JavaScript.
 Compiler logic taken from: [https://github.com/giggio/TypeScriptCompiler](https://github.com/giggio/TypeScriptCompiler).
