@@ -1,8 +1,8 @@
-# Combinator TypeScript Preprocessor Readme
+# Combinator TypeScript Preprocessor
 
 
 
-## Project Description
+## About
 
 TypeScript preprocessor for the Combinator Orchard module (https://github.com/Lombiq/Combinator).  
 This preprocessor hooks into [Combinator](https://github.com/Lombiq/Combinator) and compiles you included TypeScript files (.ts files) into pure JavaScript.
@@ -15,12 +15,9 @@ This preprocessor hooks into [Combinator](https://github.com/Lombiq/Combinator) 
 This preprocessor hooks into Combinator and compiles included TypeScript files (.ts files) into pure JavaScript.
 Compiler logic taken from: [https://github.com/giggio/TypeScriptCompiler](https://github.com/giggio/TypeScriptCompiler).
 
-The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
-- [https://bitbucket.org/Lombiq/combinator-typescript-preprocessor](https://bitbucket.org/Lombiq/combinator-typescript-preprocessor) (Mercurial repository)
-- [https://github.com/Lombiq/Combinator-TypeScript-Preprocessor](https://github.com/Lombiq/Combinator-TypeScript-Preprocessor) (Git repository)
+## Contributing and support
 
-Bug reports, feature requests and comments are warmly welcome, **please do so via GitHub**.
-Feel free to send pull requests too, no matter which source repository you choose for this purpose.
+Bug reports, feature requests, comments, questions, code contributions, and love letters are warmly welcome, please do so via GitHub issues and pull requests. Please adhere to our [open-source guidelines](https://lombiq.com/open-source-guidelines) while doing so.
 
-This project is developed by [Lombiq Technologies Ltd](http://lombiq.com/). Commercial-grade support is available through Lombiq.
+This project is developed by [Lombiq Technologies](https://lombiq.com/). Commercial-grade support is available through Lombiq.
